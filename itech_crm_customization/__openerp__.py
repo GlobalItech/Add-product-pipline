@@ -21,7 +21,7 @@
 {
     'name' : 'Product at Pipeline',
     'version' : '1.1',
-    'author' : 'Itechresources',
+    'author' : 'Itech resources',
     'category' : 'Customer Relation Management',
     'description' : """ """,
     'website': 'http://itechresources.net/',
