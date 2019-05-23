@@ -19,7 +19,7 @@
 #
 ##############################################################################
 {
-    'name' : 'Product at Pipeline',
+    'name' : 'Product at Pipeline (CRM)',
     'version' : '1.1',
     'author' : 'Itech resources',
     'category' : 'Customer Relation Management',
